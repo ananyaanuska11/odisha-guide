@@ -1,0 +1,23 @@
+[
+  {
+    "id": "konark_sun_temple",
+    "name": "Konark Sun Temple",
+    "district": "Puri",
+    "lat": 19.8876,
+    "lng": 86.0945,
+    "category": ["heritage"],
+    "interests": ["history", "architecture", "photography"],
+    "duration_hrs": 2,
+    "cost_inr": 40,
+    "family_friendly": true,
+    "indoor": false,
+    "weather_sensitive": true,
+    "best_season": "Oct-Mar",
+    "nearby": ["chandrabhaga_beach"],
+    "culture_story_id": "konark_wheel",
+    "xr": "panorama",
+    "description": "13th-century temple designed as a colossal chariot of the Sun God.",
+    "source": "ASI / Odisha Tourism (add URL)",
+    "verified": false
+  }
+]
