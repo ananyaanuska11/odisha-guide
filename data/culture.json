@@ -1,0 +1,32 @@
+[
+  {
+    "id": "konark_wheel",
+    "title": "The Wheels of Konark",
+    "type": "monument",
+    "story": "The Konark Sun Temple is built as a giant chariot of the Sun God, with 24 carved wheels and seven horses. The wheels are known to work as sundials, so visitors can read the time from their shadows.",
+    "related_places": ["konark_sun_temple"],
+    "experience": "Look at the wheel carvings up close and ask a guide to show how the shadow tells time.",
+    "source": "Add URL (ASI / UNESCO)",
+    "verified": false
+  },
+  {
+    "id": "rath_yatra",
+    "title": "Rath Yatra of Puri",
+    "type": "festival",
+    "story": "Every year, the deities Jagannath, Balabhadra and Subhadra are brought out of the Jagannath Temple on three huge wooden chariots and pulled by devotees to the Gundicha Temple. It usually falls in June or July.",
+    "related_places": ["jagannath_temple_puri"],
+    "experience": "Watch the chariots on Grand Road (Bada Danda). Expect very large crowds, so plan well ahead.",
+    "source": "Add URL (Odisha Tourism)",
+    "verified": false
+  },
+  {
+    "id": "pattachitra",
+    "title": "Pattachitra Painting",
+    "type": "craft",
+    "story": "Pattachitra is a traditional cloth-based scroll painting of Odisha. Artists use natural colours and paint scenes from Jagannath traditions and Hindu mythology. Raghurajpur is one of the best-known centres of this art.",
+    "related_places": ["raghurajpur_craft_village"],
+    "experience": "Meet the artists at work, watch how a painting is made, and buy directly from them.",
+    "source": "Add URL (Odisha Tourism / Handicrafts board)",
+    "verified": false
+  }
+]
